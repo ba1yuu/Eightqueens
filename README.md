@@ -41,3 +41,5 @@ class solution(object):
         print('\n')
         
 solution().eightqueens(8)
+----------------------------------
+https://zhuanlan.zhihu.com/p/71796190
